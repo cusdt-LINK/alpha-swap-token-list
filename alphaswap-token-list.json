@@ -1,47 +1,49 @@
 {
-
-  "name": "ALPHA Menu",
-  "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
-  "keywords": ["alpha", "tokens", "swap"],
-  "timestamp": "2021-05-10T00:00:00+00:00",
-  "tokens": [
-
-      "address": "0x0490C1076552ed3C91876EaD9F6a547B389e69d4",
-      "chainId": 321,
-      "name": "ALPHA",
-      "symbol": "ALPHA",
-      "decimals": 9,
-      "logoURI": "https://github.com/KuSwap/kusTokenList/blob/master/0x0490C1076552ed3C91876EaD9F6a547B389e69d4.png?raw=true"
-    },
-    {
-      "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
-      "chainId": 321,
-      "name": "Wrapped KCS",
-      "symbol": "WKCS",
-      "decimals": 18,
-      "logoURI": "https://kuswap.finance/kcs.png"
-    },
-
-    {
-      "address": "0x32930590244E31A9E4BBdA8ab743539af62F3C5A",
-      "chainId": 321,
-      "name": "Twilight ZONE",
-      "symbol": "ZONE",
-      "decimals": 9,
-      "logoURI": "https://static.explorer.kcc.io/group1/M00/04/18/rB8lrmHX9C6ABWkUAAAVJcLnR5E313.jpg"
-    },
-    {
-      "address": "0x4c945cD20DD13168BC87f30D55f12dC26512ca33",
-      "chainId": 321,
-      "name": "Twilight",
-      "symbol": "TWLT",
-      "decimals": 12,
-      "logoURI": "https://i.ibb.co/L1sqnHT/6926726-F-05-A5-49-D5-873-F-911-FDCEDFB6-C.png"
-    }
-  ],
-  "version": {
-    "major": 87,
-    "minor": 0,
-    "patch": 0
-  }
+	"name":"ALPHA Menu",
+	"logoURI":"https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
+	"keywords":[
+		"alpha",
+		"tokens",
+		"swap"
+	],
+	"timestamp":"2021-05-10T00:00:00+00:00",
+	"tokens":[
+		{
+			"address":"0x0490C1076552ed3C91876EaD9F6a547B389e69d4",
+			"chainId":321,
+			"name":"ALPHA",
+			"symbol":"ALPHA",
+			"decimals":9,
+			"logoURI":"https://github.com/KuSwap/kusTokenList/blob/master/0x0490C1076552ed3C91876EaD9F6a547B389e69d4.png?raw=true"
+		},
+		{
+			"address":"0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+			"chainId":321,
+			"name":"Wrapped KCS",
+			"symbol":"WKCS",
+			"decimals":18,
+			"logoURI":"https://kuswap.finance/kcs.png"
+		},
+		{
+			"address":"0x32930590244E31A9E4BBdA8ab743539af62F3C5A",
+			"chainId":321,
+			"name":"Twilight ZONE",
+			"symbol":"ZONE",
+			"decimals":9,
+			"logoURI":"https://static.explorer.kcc.io/group1/M00/04/18/rB8lrmHX9C6ABWkUAAAVJcLnR5E313.jpg"
+		},
+		{
+			"address":"0x4c945cD20DD13168BC87f30D55f12dC26512ca33",
+			"chainId":321,
+			"name":"Twilight",
+			"symbol":"TWLT",
+			"decimals":12,
+			"logoURI":"https://i.ibb.co/L1sqnHT/6926726-F-05-A5-49-D5-873-F-911-FDCEDFB6-C.png"
+		}
+	],
+	"version":{
+		"major":87,
+		"minor":0,
+		"patch":0
+	}
 }
