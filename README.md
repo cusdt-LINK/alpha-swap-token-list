@@ -1,5 +1,3 @@
-# alpha-swap-token-list
-
 ---
 description: 'Build on Alpha Swap, need help? let us know.'
 ---
