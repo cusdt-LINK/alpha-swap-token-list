@@ -6,7 +6,7 @@
 		"tokens",
 		"swap"
 	],
-	"timestamp":"2021-05-10T00:00:00+00:00",
+	"timestamp":"2022-01-28T00:00:00+00:00",
 	"tokens":[
 		{
 			"address":"0x0490C1076552ed3C91876EaD9F6a547B389e69d4",
@@ -42,7 +42,7 @@
 		}
 	],
 	"version":{
-		"major":87,
+		"major":1,
 		"minor":0,
 		"patch":0
 	}
