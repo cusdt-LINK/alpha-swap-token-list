@@ -12,7 +12,7 @@ description: 'Build on Alpha Swap, need help? let us know.'
 
 **Factory Address**: `0xA0F4Fc10b00DAdAa31A81371aaB4Ce5401c19C0F`
 
-**Multicall Address**: '0x5e38556236cc1dDb30C9405BcB0eF0AaBA6d2961'
+**Multicall Address**: `0x5e38556236cc1dDb30C9405BcB0eF0AaBA6d2961`
 
 **WKCS Address**: `0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521`
 
