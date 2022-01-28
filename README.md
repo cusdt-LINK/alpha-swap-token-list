@@ -2,7 +2,7 @@
 description: 'Build on Alpha Swap, need help? let us know.'
 ---
 
-## ✨ Building on Alpha Swap
+## ✨ Building on AlphaSwap
 
 ## **Alpha Swap Mainnet:**
 
