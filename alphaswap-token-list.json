@@ -31,19 +31,11 @@
 			"symbol":"ZONE",
 			"decimals":9,
 			"logoURI":"https://static.explorer.kcc.io/group1/M00/04/18/rB8lrmHX9C6ABWkUAAAVJcLnR5E313.jpg"
-		},
-		{
-			"address":"0x4c945cD20DD13168BC87f30D55f12dC26512ca33",
-			"chainId":321,
-			"name":"Twilight",
-			"symbol":"TWLT",
-			"decimals":12,
-			"logoURI":"https://i.ibb.co/tmpQLzq/A4-B74-C76-9-BF4-4229-93-AD-BB1-DC1857480.png"
 		}
 	],
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":0
+		"patch":1
 	}
 }
