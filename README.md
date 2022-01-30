@@ -8,9 +8,9 @@ description: 'Build on Alpha Swap, need help? let us know.'
 
 `Mainnet Deployed @ https://swap.alphadao.money`
 
-**Router Address**: `0x83DDB667807A3e2d13428d47F740D3940EdF2b59`
+**Router Address**: `0x6074761Ae58B88aC6b12396A290164e0e20b46Fe`
 
-**Factory Address**: `0xA0F4Fc10b00DAdAa31A81371aaB4Ce5401c19C0F`
+**Factory Address**: `0x87383F77AddEB3cEaD7A78009AfcCF53C9F5bfCf`
 
 **Multicall Address**: `0x5e38556236cc1dDb30C9405BcB0eF0AaBA6d2961`
 
