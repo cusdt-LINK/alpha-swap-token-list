@@ -31,11 +31,19 @@
 			"symbol":"ZONE",
 			"decimals":9,
 			"logoURI":"https://static.explorer.kcc.io/group1/M00/04/18/rB8lrmHX9C6ABWkUAAAVJcLnR5E313.jpg"
+		},
+		{
+			"address":"0x905bb6419948455847bef285485495fb570973b0",
+			"chainId":321,
+			"name":"Twilight",
+			"symbol":"TWLT",
+			"decimals":12,
+			"logoURI":"https://raw.githubusercontent.com/cusdt-LINK/kusTokenList/master/logo.png"
 		}
 	],
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":1
+		"patch":0
 	}
 }
