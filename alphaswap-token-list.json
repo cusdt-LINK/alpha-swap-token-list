@@ -46,7 +46,7 @@
 			"name":"KCC-Peg Tether USD",
 			"symbol":"USDT",
 			"decimals":18,
-			"logoURI":"https://gateway.pinata.cloud/ipfs/QmXQ6MyGRqL5SdPpjspHCgbPyYJFkVXmS3TAX6RannHZcB"
+			"logoURI":"https://gateway.pinata.cloud/ipfs/QmYVvxN2Dw9CGwFTDFuhyDbdZ4pWLVy2eMLiMeBLBWN9x2"
 		},
 		{
 			"address":"0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
@@ -68,6 +68,6 @@
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":2
+		"patch":3
 	}
 }
