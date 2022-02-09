@@ -6,7 +6,7 @@
 		"tokens",
 		"swap"
 	],
-	"timestamp":"2022-01-28T00:00:00+00:00",
+	"timestamp":"2022-02-08T00:00:00+00:00",
 	"tokens":[
 		{
 			"address":"0x0490C1076552ed3C91876EaD9F6a547B389e69d4",
@@ -39,6 +39,30 @@
 			"symbol":"TWLT",
 			"decimals":12,
 			"logoURI":"https://raw.githubusercontent.com/cusdt-LINK/kusTokenList/master/logo.png"
+		},
+		{
+			"address":"0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+			"chainId":321,
+			"name":"KCC-Peg Tether USD",
+			"symbol":"USDT",
+			"decimals":18,
+			"logoURI":"https://gateway.pinata.cloud/ipfs/QmXQ6MyGRqL5SdPpjspHCgbPyYJFkVXmS3TAX6RannHZcB"
+		},
+		{
+			"address":"0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+			"chainId":321,
+			"name":"KCC-Peg USD Coin",
+			"symbol":"USDC",
+			"decimals":18,
+			"logoURI":"https://gateway.pinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
+		},
+		{
+			"address":"0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+			"chainId":321,
+			"name":"DAI Stable-Coin",
+			"symbol":"DAI",
+			"decimals":18,
+			"logoURI":"https://gateway.pinata.cloud/ipfs/QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho"
 		}
 	],
 	"version":{
