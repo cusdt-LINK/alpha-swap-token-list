@@ -42,7 +42,7 @@ The contract address should follow the checksum address format \(see next requir
        "name":"Wrapped KCS",
        "symbol":"WKCS",
        "decimals":18,
-       "logoURI":"https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521.png"
+       "logoURI":"https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521.png"
 
 },
 
