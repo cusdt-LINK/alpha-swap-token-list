@@ -38,7 +38,7 @@
 			"name":"Twilight",
 			"symbol":"TWLT",
 			"decimals":12,
-			"logoURI":"https://raw.githubusercontent.com/cusdt-LINK/kusTokenList/master/logo.png"
+			"logoURI":"https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x905bB6419948455847bEF285485495fb570973b0.png"
 		},
 		{
 			"address":"0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
@@ -68,6 +68,6 @@
 	"version":{
 		"major":1,
 		"minor":0,
-		"patch":3
+		"patch":4
 	}
 }
