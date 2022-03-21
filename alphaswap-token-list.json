@@ -13,7 +13,7 @@
             "name": "ALPHA",
             "symbol": "ALPHA",
             "decimals": 9,
-            "logoURI": "https://i.ibb.co/Kh9J8Cf/alphadao-icon.png"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x0490C1076552ed3C91876EaD9F6a547B389e69d4.png"
         },
         {
             "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
@@ -21,7 +21,7 @@
             "name": "Wrapped KCS",
             "symbol": "WKCS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/KuSwap/kusTokenList/master/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521.png"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521.png"
         },
         {
             "address": "0x32930590244E31A9E4BBdA8ab743539af62F3C5A",
@@ -29,7 +29,7 @@
             "name": "Twilight ZONE",
             "symbol": "ZONE",
             "decimals": 9,
-            "logoURI": "https://static.explorer.kcc.io/group1/M00/04/18/rB8lrmHX9C6ABWkUAAAVJcLnR5E313.jpg"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x32930590244E31A9E4BBdA8ab743539af62F3C5A.png"
         },
         {
             "address": "0x905bb6419948455847bef285485495fb570973b0",
@@ -45,7 +45,7 @@
             "name": "KCC-Peg Tether USD",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmYVvxN2Dw9CGwFTDFuhyDbdZ4pWLVy2eMLiMeBLBWN9x2"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48.png"
         },
         {
             "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
@@ -53,7 +53,7 @@
             "name": "KCC-Peg USD Coin",
             "symbol": "USDC",
             "decimals": 18,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430.png"
         },
         {
             "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
@@ -61,7 +61,7 @@
             "name": "DAI Stable-Coin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055.png"
         },
         {
             "address": "0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
@@ -69,12 +69,12 @@
             "name": "CoolHash",
             "symbol": "COOHA",
             "decimals": 18,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmdvLjRFt4rQpyDBe515d3fo7ipizPWzvYZ8K7kjdB2MRH"
+            "logoURI": "https://raw.githubusercontent.com/cusdt-LINK/alpha-swap-token-list/main/logo/0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF.png"
         }
     ],
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 5
+        "patch": 6
     }
 }
